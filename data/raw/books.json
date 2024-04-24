@@ -1,0 +1,13 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin",
+      "publisher": "Prentice Hall",
+      "category": "Programming",
+      "pages": 464,
+      "price": 22
+    }
+  ]
+}
